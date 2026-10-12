@@ -1,3 +1,7 @@
+![dashboard](Dashboard.jpg)
+
+
+
 # SALE_PERFORMANCE ANALYSIS
 
 ## PROJECT OVERVIEW
